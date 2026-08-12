@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub do Eduardo Ferreira Ribeiro",
+  "version": "1.0.0",
+  "description": "Acesse rapidamente o perfil do GitHub de Eduardo Ferreira Ribeiro.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
